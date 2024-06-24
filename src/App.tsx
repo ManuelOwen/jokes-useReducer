@@ -1,4 +1,4 @@
-import React from 'react';
+
 import './App.scss';
 import JokeReducer from './reducers/jokereducer';
 
